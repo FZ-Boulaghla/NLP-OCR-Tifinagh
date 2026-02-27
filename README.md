@@ -7,13 +7,6 @@
 Système de reconnaissance de caractères Tifinagh (OCR) basé sur un CNN,
 couplé à un module de correction automatique par distance de Levenshtein.
 
-## Résultats
-| Composant | Métrique | Résultat |
-|---|---|---|
-| CNN OCR | Test Accuracy | 100% |
-| CNN OCR | F1-Score | 1.00 |
-| Correction NLP | Taux de correction | 100% |
-| Correction NLP | WER après correction | 0% |
 
 ## Installation
 ```bash
